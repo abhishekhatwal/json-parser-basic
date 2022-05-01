@@ -1,0 +1,16 @@
+{
+
+  "firstname"       :       "david",
+  "lastname"        :       "nile",
+
+   "nickname"       :       "darwin",
+    "gender"        :       "male",
+    "city"          :       "new york",
+    "street"        :       "52-north",
+    "phone"         :       "123456",
+    "email"         :       "david@gamil",
+    "postal address":      "27821",
+    "school"        :       "ph high",
+    "hobby"         :       "basketball"
+
+}
